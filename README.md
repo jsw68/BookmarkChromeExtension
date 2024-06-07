@@ -1,4 +1,4 @@
-#BookmarkChromeExtension
+# BookmarkChromeExtension
 Technologies used: JavaScript, HTML, Chrome Extension API
 A Chrome Extension that allows the user to save links they would like to keep for later. 
 Additional functionality for tab groups and adding notes. 
